@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.7.4","tmVersion":"2.4.16","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2026-09-22T14:17:38.292Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["Left","Right","Up","Down","Normal"],"imageSize":224}
